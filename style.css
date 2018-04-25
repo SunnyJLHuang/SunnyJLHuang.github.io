@@ -1,0 +1,12 @@
+html {
+  font-family: sans-serif;
+  background-color: #ffddff;
+}
+h1 {
+  text-align: center;
+}
+#resume,
+#ProExp {
+  width: 350px;
+  margin: 0 auto;
+}
